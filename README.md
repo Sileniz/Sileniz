@@ -6,15 +6,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="400" src="https://64.media.tumblr.com/b74f5224ca06705cf52c97231d255cf8/47305ec6b04a0557-f5/s540x810/8e8dd5c99a30e272d77b5d04f8b4c84b862e03f2.gif"  />
-</div>
-
-###
-
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -26,7 +18,7 @@
 
 ###
 
-<h2 align="center">Language and tools</h2>
+<h2 align="left">Language and tools</h2>
 
 ###
 
