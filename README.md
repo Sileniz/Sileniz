@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">👨‍💻  I'm currently learning Javascript | ReactJS</h3>
+<h3 align="left">👨‍💻  I'm currently learning Javascript | Vue.js </h3>
 
 ###
 
